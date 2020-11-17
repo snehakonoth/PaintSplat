@@ -1,6 +1,5 @@
 package ie.tcd.paintsplat.painsplatapp.controller;
 
-import ie.tcd.paintsplat.painsplatapp.model.UserSession;
 import ie.tcd.paintsplat.painsplatapp.service.UserService;
 import ie.tcd.paintsplat.painsplatapp.service.UserSessionService;
 import org.springframework.beans.factory.annotation.Autowired;
